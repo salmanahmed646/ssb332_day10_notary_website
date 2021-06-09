@@ -247,13 +247,13 @@ header {
 	color: #fff;
 	border-radius: 7px;
 	font-size: 14px;
-
+	border: 1px solid transparent !important;
 	transition: .4s;
 }
 .video-left button a:hover {
 	background: #fff;
 	color: #BD233F;
-	border: 1px solid #BD233F;
+	border: 1px solid #BD233F !important;
 	box-sizing: border-box;
 }
 .video-right {

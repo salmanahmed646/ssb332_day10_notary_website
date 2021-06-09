@@ -64,7 +64,7 @@ header {
 /* Header-Section End */
 /* Banner-Section Start */
 .banner-section {
-	background: url(/images/banner.jpg) no-repeat center center;
+	background: url(../images/banner.jpg) no-repeat center center;
 	background-size: cover;
 	padding: 130px;
 
